@@ -18,9 +18,31 @@ body, html {
     justify-content: center;
     align-items: center;
     color: white;
+    margin:0%;
     
 }
 
+#img2 {
+    background-image: url(https://media.cntraveler.com/photos/5e56daf217b1dc0008f2fba6/16:9/w_1600%2Cc_limit/03-waileabeach-hawaii-2020-GettyImages-144924389.jpg);
+    font-family: 'Open Sans Condensed', sans-serif;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    padding:0%;
+}
+
+#img22 {
+    font-size: 6ch;
+    background-color: black;
+    
+}
+
+
 .navbar {
     font-family: 'Open Sans Condensed', sans-serif;
+    
 }
