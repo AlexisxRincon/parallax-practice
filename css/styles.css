@@ -11,7 +11,7 @@ body, html {
 #img1 {
     background-image: url(https://peakvisor.com/img/news/french-mountains.jpg);
     font-family: 'Lobster Two', cursive;
-    background-position: center;
+    background-position: cover;
     background-repeat: no-repeat;
     background-size: cover;
     height: 100%;
@@ -19,7 +19,7 @@ body, html {
     align-items: center;
     color: white;
     margin:0%;
-    min-height: 500px;
+    min-height: 100vh;
     background-attachment: fixed;
 }
 
@@ -34,7 +34,7 @@ body, html {
     align-items: center;
     color: white;
     margin:0%;
-    min-height: 500px;
+    min-height: 100vh;
     background-attachment: fixed;
 }
 
@@ -49,13 +49,13 @@ body, html {
     align-items: center;
     color: white;
     margin:0%;
-    min-height: 500px;
+    min-height: 100vh;
     background-attachment: fixed;
 }
 
 #img22 {
     font-size: 6ch;
-    background-color: black;
+    background-color: rgba(0, 0, 0, 0.397);
     padding: 5%;
 
     
